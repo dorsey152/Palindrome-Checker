@@ -1,0 +1,24 @@
+body{
+  background-color: green;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 50px;
+}
+
+#title {
+  text-align: center;
+}
+
+#text-input {
+  border-radius: 6px;
+  width: 50%;
+  height: 50px;
+  margin: 25px;
+}
+
+#check-btn {
+  border-radius: 6px;
+  width: 30%;
+  height: 40px; 
+}
